@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3Routes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c42817db745481ec6bed3e5f1c668cec09aede9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+983f88b5b4687407c5ad68c382b5a2f65de9d1d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("3Routes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3Routes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+@_6Model_HostAddress = http://localhost:5011
+
+GET {{_6Model_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

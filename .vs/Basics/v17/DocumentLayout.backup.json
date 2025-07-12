@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E39600F6-354E-464F-9A6D-5A9EB5363112}|5Controllers\\5Controllers.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\5controllers\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E39600F6-354E-464F-9A6D-5A9EB5363112}|5Controllers\\5Controllers.csproj|solutionrelative:5controllers\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{755138B5-6B51-4F64-B7E3-D921ED9BEE6F}|6Model\\6Model.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\6model\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755138B5-6B51-4F64-B7E3-D921ED9BEE6F}|6Model\\6Model.csproj|solutionrelative:6model\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755138B5-6B51-4F64-B7E3-D921ED9BEE6F}|6Model\\6Model.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\6model\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755138B5-6B51-4F64-B7E3-D921ED9BEE6F}|6Model\\6Model.csproj|solutionrelative:6model\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755138B5-6B51-4F64-B7E3-D921ED9BEE6F}|6Model\\6Model.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\6model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755138B5-6B51-4F64-B7E3-D921ED9BEE6F}|6Model\\6Model.csproj|solutionrelative:6model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +22,50 @@
       "DocumentGroups": [
         {
           "DockedHeight": 306,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FirstController.cs",
-              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\5Controllers\\Controllers\\FirstController.cs",
-              "RelativeDocumentMoniker": "5Controllers\\Controllers\\FirstController.cs",
-              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\5Controllers\\Controllers\\FirstController.cs",
-              "RelativeToolTip": "5Controllers\\Controllers\\FirstController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "SampleController.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\6Model\\Controllers\\SampleController.cs",
+              "RelativeDocumentMoniker": "6Model\\Controllers\\SampleController.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\6Model\\Controllers\\SampleController.cs",
+              "RelativeToolTip": "6Model\\Controllers\\SampleController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBUAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:53:25.011Z",
+              "WhenOpened": "2025-07-12T23:07:49.223Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\6Model\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "6Model\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\6Model\\Models\\StudentModel.cs",
+              "RelativeToolTip": "6Model\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T23:01:36.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\6Model\\Program.cs",
+              "RelativeDocumentMoniker": "6Model\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\6Model\\Program.cs",
+              "RelativeToolTip": "6Model\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T22:51:44.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

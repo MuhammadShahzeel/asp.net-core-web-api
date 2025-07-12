@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "_6Model.Controllers.SampleController",
+    "Method": "Data",
+    "RelativePath": "api/Sample",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
