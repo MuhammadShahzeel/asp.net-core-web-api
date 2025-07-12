@@ -1,0 +1,6 @@
+@_5Controllers_HostAddress = http://localhost:5053
+
+GET {{_5Controllers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

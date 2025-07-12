@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4SimpleApi", "4SimpleApi\4S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Middlewares", "4Middlewares\4Middlewares.csproj", "{898FB758-7C96-43BF-93F8-4AE39DB17445}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Controllers", "5Controllers\5Controllers.csproj", "{E39600F6-354E-464F-9A6D-5A9EB5363112}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{898FB758-7C96-43BF-93F8-4AE39DB17445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{898FB758-7C96-43BF-93F8-4AE39DB17445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{898FB758-7C96-43BF-93F8-4AE39DB17445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39600F6-354E-464F-9A6D-5A9EB5363112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39600F6-354E-464F-9A6D-5A9EB5363112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39600F6-354E-464F-9A6D-5A9EB5363112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39600F6-354E-464F-9A6D-5A9EB5363112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

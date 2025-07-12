@@ -1,0 +1,68 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "5Controllers",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/MyFirst/hello": {
+      "get": {
+        "tags": [
+          "MyFirst"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MyFirst/{name}": {
+      "get": {
+        "tags": [
+          "MyFirst"
+        ],
+        "parameters": [
+          {
+            "name": "name",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MyFirst/error": {
+      "get": {
+        "tags": [
+          "MyFirst"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MyFirst/users": {
+      "get": {
+        "tags": [
+          "MyFirst"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

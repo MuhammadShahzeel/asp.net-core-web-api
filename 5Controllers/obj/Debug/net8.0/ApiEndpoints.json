@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "_5Controllers.Controllers.MyFirstController",
+    "Method": "GreetUser",
+    "RelativePath": "api/MyFirst/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_5Controllers.Controllers.MyFirstController",
+    "Method": "Error",
+    "RelativePath": "api/MyFirst/error",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_5Controllers.Controllers.MyFirstController",
+    "Method": "SayHello",
+    "RelativePath": "api/MyFirst/hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_5Controllers.Controllers.MyFirstController",
+    "Method": "GetUsers",
+    "RelativePath": "api/MyFirst/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

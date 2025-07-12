@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{898FB758-7C96-43BF-93F8-4AE39DB17445}|4Middlewares\\4Middlewares.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\4middlewares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{898FB758-7C96-43BF-93F8-4AE39DB17445}|4Middlewares\\4Middlewares.csproj|solutionrelative:4middlewares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898FB758-7C96-43BF-93F8-4AE39DB17445}|4Middlewares\\4Middlewares.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\4middlewares\\middlewares\\middleware3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{898FB758-7C96-43BF-93F8-4AE39DB17445}|4Middlewares\\4Middlewares.csproj|solutionrelative:4middlewares\\middlewares\\middleware3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898FB758-7C96-43BF-93F8-4AE39DB17445}|4Middlewares\\4Middlewares.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\4middlewares\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{898FB758-7C96-43BF-93F8-4AE39DB17445}|4Middlewares\\4Middlewares.csproj|solutionrelative:4middlewares\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72D8FCF-1B79-4F36-9036-F4C0B4868B47}|3Routes\\3Routes.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\3routes\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72D8FCF-1B79-4F36-9036-F4C0B4868B47}|3Routes\\3Routes.csproj|solutionrelative:3routes\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E39600F6-354E-464F-9A6D-5A9EB5363112}|5Controllers\\5Controllers.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\5controllers\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39600F6-354E-464F-9A6D-5A9EB5363112}|5Controllers\\5Controllers.csproj|solutionrelative:5controllers\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 306,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Middleware3.cs",
-              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\4Middlewares\\Middlewares\\Middleware3.cs",
-              "RelativeDocumentMoniker": "4Middlewares\\Middlewares\\Middleware3.cs",
-              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\4Middlewares\\Middlewares\\Middleware3.cs",
-              "RelativeToolTip": "4Middlewares\\Middlewares\\Middleware3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T15:48:35.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HelloController.cs",
-              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\4Middlewares\\Controllers\\HelloController.cs",
-              "RelativeDocumentMoniker": "4Middlewares\\Controllers\\HelloController.cs",
-              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\4Middlewares\\Controllers\\HelloController.cs",
-              "RelativeToolTip": "4Middlewares\\Controllers\\HelloController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T15:25:37.638Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -61,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\4Middlewares\\Program.cs",
-              "RelativeDocumentMoniker": "4Middlewares\\Program.cs",
-              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\4Middlewares\\Program.cs",
-              "RelativeToolTip": "4Middlewares\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Title": "FirstController.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\5Controllers\\Controllers\\FirstController.cs",
+              "RelativeDocumentMoniker": "5Controllers\\Controllers\\FirstController.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\5Controllers\\Controllers\\FirstController.cs",
+              "RelativeToolTip": "5Controllers\\Controllers\\FirstController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T15:25:17.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoutesController.cs",
-              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\3Routes\\Controllers\\RoutesController.cs",
-              "RelativeDocumentMoniker": "3Routes\\Controllers\\RoutesController.cs",
-              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\3Routes\\Controllers\\RoutesController.cs",
-              "RelativeToolTip": "3Routes\\Controllers\\RoutesController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T20:23:58.191Z",
+              "WhenOpened": "2025-07-12T18:53:25.011Z",
               "EditorCaption": ""
             }
           ]

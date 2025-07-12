@@ -18,6 +18,7 @@ C:\Users\shahz\OneDrive\Desktop\.net\asp.net core\Basics\4Middlewares\obj\Debug\
 C:\Users\shahz\OneDrive\Desktop\.net\asp.net core\Basics\4Middlewares\obj\Debug\net8.0\4Middlewares.csproj.CoreCompileInputs.cache
 C:\Users\shahz\OneDrive\Desktop\.net\asp.net core\Basics\4Middlewares\obj\Debug\net8.0\4Middlewares.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\shahz\OneDrive\Desktop\.net\asp.net core\Basics\4Middlewares\obj\Debug\net8.0\4Middlewares.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shahz\OneDrive\Desktop\.net\asp.net core\Basics\4Middlewares\obj\Debug\net8.0\4Middlewares.sourcelink.json
 C:\Users\shahz\OneDrive\Desktop\.net\asp.net core\Basics\4Middlewares\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\shahz\OneDrive\Desktop\.net\asp.net core\Basics\4Middlewares\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\shahz\OneDrive\Desktop\.net\asp.net core\Basics\4Middlewares\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
