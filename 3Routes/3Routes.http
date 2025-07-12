@@ -1,0 +1,6 @@
+@_3Routes_HostAddress = http://localhost:5200
+
+GET {{_3Routes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
