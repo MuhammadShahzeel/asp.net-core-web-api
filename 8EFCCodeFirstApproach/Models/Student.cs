@@ -8,13 +8,18 @@ namespace EFCCodeFirstApproach.Models
         [Key] //to make id primary key
         public int Id { get; set; }
 
+        [Required]
+        [Column("StudentName", TypeName = "varchar(100)")] //to display name in db
 
-        [Column("StudentName",TypeName ="varchar(100)")] //to display name in db
+
         public string Name { get; set; }
         [Column("StudentGender", TypeName = "varchar(20)")] //to display name in db
+        [Required]
         public string Gender { get; set; }
-        public int Age { get; set; }
-        public int Standard { get; set; } 
+        [Required]
+        public int? Age { get; set; }
+        [Required]
+        public int? Standard { get; set; }
 
     }
 }

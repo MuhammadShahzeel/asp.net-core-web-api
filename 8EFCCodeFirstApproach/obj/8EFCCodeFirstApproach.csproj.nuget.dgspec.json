@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj": {}
+    "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj": {
+    "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj",
+        "projectUniqueName": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj",
         "projectName": "8EFCCodeFirstApproach",
-        "projectPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj",
+        "projectPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj",
         "packagesPath": "C:\\Users\\shahz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\EFCCodeFirstApproach\\obj\\",
+        "outputPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
