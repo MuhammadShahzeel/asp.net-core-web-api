@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4Middlewares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4b16b8dd3e63042c8f23ae4ec71e3fdcdcb4d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e286b3eb7cdda5da9b2965fed46d257355ad4948")]
 [assembly: System.Reflection.AssemblyProductAttribute("4Middlewares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4Middlewares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

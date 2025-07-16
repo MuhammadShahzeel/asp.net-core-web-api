@@ -46,6 +46,14 @@ builder.Services.AddDbContext<StudentDBContext>(items =>
 and before this
 var app = builder.Build()
 
+---note:--- after that inject DbContext in your controller constructor check controller for details
+
+ctrl + . shortcut
+
+then delete home view and in controller  add new view check for details
+
+create view by slecting indec action method and  select list 
+
 
 
 step 5: add migration using package manager console or dotnet cli
