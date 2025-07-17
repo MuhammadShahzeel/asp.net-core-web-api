@@ -1,0 +1,121 @@
+[
+  {
+    "ContainingType": "_11WebApiCRUD.Controllers.StudentAPIController",
+    "Method": "GetStudents",
+    "RelativePath": "api/StudentAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[_11WebApiCRUD.Models.StudentsWebApi, 11WebApiCRUD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_11WebApiCRUD.Controllers.StudentAPIController",
+    "Method": "InsertStudent",
+    "RelativePath": "api/StudentAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "_11WebApiCRUD.Models.StudentsWebApi",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_11WebApiCRUD.Models.StudentsWebApi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_11WebApiCRUD.Controllers.StudentAPIController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/StudentAPI/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_11WebApiCRUD.Models.StudentsWebApi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_11WebApiCRUD.Controllers.StudentAPIController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/StudentAPI/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "student",
+        "Type": "_11WebApiCRUD.Models.StudentsWebApi",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_11WebApiCRUD.Models.StudentsWebApi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_11WebApiCRUD.Controllers.StudentAPIController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/StudentAPI/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
