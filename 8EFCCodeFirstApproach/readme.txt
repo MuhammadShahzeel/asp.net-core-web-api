@@ -20,7 +20,9 @@ Microsoft.EntityFrameworkCore.Tools
 Design-time support ke liye (recommended):
 Microsoft.EntityFrameworkCore.Design
 
-step 2: create a model class and dbcontext class in Models folder check  models folder for detail
+step 2: create a model class and dbcontext class in Models folder check  models folder for detail or you can also  put dbcontext in Data folder
+
+
 
 step 3: add connection string in appsettings.json file
 
@@ -42,6 +44,14 @@ builder.Services.AddDbContext<StudentDBContext>(items =>
     items.UseSqlServer(config.GetConnectionString("dbcs"))); 
 
     <StudentDBContext> --replace with your actual name
+
+
+    //use this now its reciommended not the upper one
+
+    builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 --------------------------------------------------------
 and before this
 var app = builder.Build()

@@ -8,6 +8,7 @@ namespace EFCCodeFirstApproach.Models
         //step 2: then create constructor like this
         public StudentDBContext(DbContextOptions options) : base(options) //pass options to base class
             {
+
         }
 
         //step 3: create dbset for Student it will represent table in database

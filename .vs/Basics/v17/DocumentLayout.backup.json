@@ -3,20 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF25D55-AC60-4BA0-8E62-3C564840ECD4}|8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\8efccodefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF25D55-AC60-4BA0-8E62-3C564840ECD4}|8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj|solutionrelative:8efccodefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CF25D55-AC60-4BA0-8E62-3C564840ECD4}|8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\8efccodefirstapproach\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4CF25D55-AC60-4BA0-8E62-3C564840ECD4}|8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj|solutionrelative:8efccodefirstapproach\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF25D55-AC60-4BA0-8E62-3C564840ECD4}|8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\8efccodefirstapproach\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF25D55-AC60-4BA0-8E62-3C564840ECD4}|8EFCCodeFirstApproach\\8EFCCodeFirstApproach.csproj|solutionrelative:8efccodefirstapproach\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\migrations\\20250717233715_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\migrations\\20250717233715_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\13identity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A19CD4E2-85D0-495E-91F2-D92245B6E0F3}|13Identity\\13Identity.csproj|solutionrelative:13identity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\11webapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|solutionrelative:11webapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\11webapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|solutionrelative:11webapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\12consumingwebapiinmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED6C9CB-C128-4723-A7B0-CB408F8395BC}|12ConsumingWebApiInMVC\\12ConsumingWebApiInMVC.csproj|solutionrelative:12consumingwebapiinmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\11webapicrud\\models\\studentswebapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|solutionrelative:11webapicrud\\models\\studentswebapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\11webapicrud\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|solutionrelative:11webapicrud\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\11webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6725E726-2DB3-4869-80AD-C16162713092}|11WebApiCRUD\\11WebApiCRUD.csproj|solutionrelative:11webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB65E79-0BB3-40C1-B79D-ADA0F5B8BE8C}|10WebApi\\10WebApi.csproj|c:\\users\\shahz\\onedrive\\desktop\\.net\\asp.net core\\basics\\10webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB65E79-0BB3-40C1-B79D-ADA0F5B8BE8C}|10WebApi\\10WebApi.csproj|solutionrelative:10webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +110,314 @@
       "DocumentGroups": [
         {
           "DockedHeight": 306,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "8EFCCodeFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "8EFCCodeFirstApproach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:09:31.382Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Delete.cshtml",
-              "RelativeDocumentMoniker": "12ConsumingWebApiInMVC\\Views\\Student\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Delete.cshtml",
-              "RelativeToolTip": "12ConsumingWebApiInMVC\\Views\\Student\\Delete.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T16:46:35.712Z",
+              "DocumentIndex": 2,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "8EFCCodeFirstApproach\\Models\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "8EFCCodeFirstApproach\\Models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:09:29.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\readme.txt",
+              "RelativeDocumentMoniker": "8EFCCodeFirstApproach\\readme.txt",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\8EFCCodeFirstApproach\\readme.txt",
+              "RelativeToolTip": "8EFCCodeFirstApproach\\readme.txt",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-18T17:00:10.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "13Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "13Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAIgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:47:54.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "13Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "13Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T23:46:24.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\readme.txt",
+              "RelativeDocumentMoniker": "13Identity\\readme.txt",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\readme.txt",
+              "RelativeToolTip": "13Identity\\readme.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-17T22:54:39.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "13Identity\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "13Identity\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-17T22:48:20.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Program.cs",
+              "RelativeDocumentMoniker": "13Identity\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Program.cs",
+              "RelativeToolTip": "13Identity\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:59:12.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250717233715_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Migrations\\20250717233715_InitialCreate.cs",
+              "RelativeDocumentMoniker": "13Identity\\Migrations\\20250717233715_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Migrations\\20250717233715_InitialCreate.cs",
+              "RelativeToolTip": "13Identity\\Migrations\\20250717233715_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:37:15.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "13Identity\\appsettings.json",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\appsettings.json",
+              "RelativeToolTip": "13Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T23:20:26.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "13Identity\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "13Identity\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:10:15.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "13Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "13Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:07:15.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "13Identity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\13Identity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "13Identity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T22:49:36.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "12ConsumingWebApiInMVC\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "12ConsumingWebApiInMVC\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T16:17:03.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "12ConsumingWebApiInMVC\\Models\\StudentModel.cs",
               "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Models\\StudentModel.cs",
               "RelativeToolTip": "12ConsumingWebApiInMVC\\Models\\StudentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwBIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:11:59.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:52:50.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "12ConsumingWebApiInMVC\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "12ConsumingWebApiInMVC\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "12ConsumingWebApiInMVC\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "12ConsumingWebApiInMVC\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T15:56:11.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:29:55.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "12ConsumingWebApiInMVC\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "12ConsumingWebApiInMVC\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T13:53:04.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "12ConsumingWebApiInMVC\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Controllers\\StudentController.cs",
               "RelativeToolTip": "12ConsumingWebApiInMVC\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwF8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T13:38:10.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T13:38:10.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "11WebApiCRUD\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "11WebApiCRUD\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:58:55.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "11WebApiCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\Program.cs",
+              "RelativeToolTip": "11WebApiCRUD\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:54:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Program.cs",
+              "RelativeDocumentMoniker": "12ConsumingWebApiInMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\12ConsumingWebApiInMVC\\Program.cs",
+              "RelativeToolTip": "12ConsumingWebApiInMVC\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:13:31.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "11WebApiCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\appsettings.json",
+              "RelativeToolTip": "11WebApiCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T20:52:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentsWebApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\Models\\StudentsWebApiDbContext.cs",
+              "RelativeDocumentMoniker": "11WebApiCRUD\\Models\\StudentsWebApiDbContext.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\Models\\StudentsWebApiDbContext.cs",
+              "RelativeToolTip": "11WebApiCRUD\\Models\\StudentsWebApiDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:51:57.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\readme.txt",
+              "RelativeDocumentMoniker": "11WebApiCRUD\\readme.txt",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\11WebApiCRUD\\readme.txt",
+              "RelativeToolTip": "11WebApiCRUD\\readme.txt",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-16T20:22:29.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\10WebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "10WebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shahz\\OneDrive\\Desktop\\.net\\asp.net core\\Basics\\10WebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "10WebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:43:42.204Z"
             }
           ]
         }
